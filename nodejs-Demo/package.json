@@ -5,8 +5,15 @@
   "author": "Your Name <yourname@email.com>",
   "license": "MIT",
   "main": "app.js",
-  "keywords": ["nodejs", "kb", "docker"],
+  "keywords": [
+    "nodejs",
+    "kb",
+    "docker"
+  ],
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
